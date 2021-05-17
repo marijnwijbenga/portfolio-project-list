@@ -25,5 +25,6 @@ A list of all the portfolio work i want to do to just make fun stuff
 15. Vue & Tailwind: Online Whiteboard
 16. Vue & Tailwind: Rock paper scissors lizzard spock
 17. Vue & Tailwind: JS OS
-18. Angular & AntCSS Cursic Backend
-19. Vue & Tailwind: Cursic frontend.
+18. Vue & Tailwind: Astronomy app (https://docs.astronomyapi.com/v/v2/ https://github.com/AstronomyAPI/Samples)
+19. Angular & AntCSS Cursic Backend
+20. Vue & Tailwind: Cursic frontend.
