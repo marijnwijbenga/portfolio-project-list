@@ -1,8 +1,8 @@
 # Webdev Portfolio Projects
-a list of all the portfolio work i want to do to just make fun stuff
+A list of all the portfolio work i want to do to just make fun stuff
 
 1. Vanilla JS& CSS: Js Practice
-2. Simple finance with Angular & AntCSS
+2. Angular & AntCSS: Simple finance with:
     - NestJS User & transactions CRUD Api's
     - Login & account ownership
     - Ownership of transactions
@@ -25,4 +25,5 @@ a list of all the portfolio work i want to do to just make fun stuff
 15. Vue & Tailwind: Online Whiteboard
 16. Vue & Tailwind: Rock paper scissors lizzard spock
 17. Vue & Tailwind: JS OS
-18. Cursic
+18. Angular & AntCSS Cursic Backend
+19. Vue & Tailwind: Cursic frontend.
