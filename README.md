@@ -4,17 +4,11 @@ A list of all the portfolio work i want to do to just make fun stuff
 -- add to list: worlds most beautiful form: look en ui ux
 
 1. Vanilla JS& CSS: Js Practice
-2. Angular & AntCSS: Simple finance with:
-    - NestJS User & transactions CRUD Api's
-    - Login & account ownership
-    - Ownership of transactions
-    - publish to heroku/aws
+2. Angular & AntCSS & strapi: Simple finance with:
+    - Api met strapi
 3. Vue HTML 5 video player with Vue & Tailwind
 4. Vue Image Gallery with Tailwind Nestjs API to store images
-5. Angular Todo App with AntCSS & Nestjs API
-    - NestJS User & task CRUD Api's
-    - Login & account ownership
-    - Ownership of tasks
+5. Angular Todo App with AntCSS & Strapi
 6. Vue & Tailwind: Shopping form with custom events
 7. Vue & Tailwind: Web speech colors game
 8. Angular & AntCSS: Movie seat booking
