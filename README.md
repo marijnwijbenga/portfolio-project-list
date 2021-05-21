@@ -1,6 +1,8 @@
 # Webdev Portfolio Projects
 A list of all the portfolio work i want to do to just make fun stuff
 
+-- add to list: worlds most beautiful form: look en ui ux
+
 1. Vanilla JS& CSS: Js Practice
 2. Angular & AntCSS: Simple finance with:
     - NestJS User & transactions CRUD Api's
