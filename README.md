@@ -1,7 +1,7 @@
 # Webdev Portfolio Projects
 A list of all the portfolio work i want to do to just make fun stuff
 
--- add to list: worlds most beautiful form: look en ui ux
+-- add to list: worlds most beautiful form: look en ui ux  
 -- animal zoo camera project from python
 
 1. Vanilla JS& CSS: Js Practice
