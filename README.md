@@ -2,7 +2,7 @@
 A list of all the portfolio work i want to do to just make fun stuff
 
 ## deploy all to heroku or amazon (or both)
-:point_right:!! dont get into backend stuff:point_left:
+:point_right:!! dont get into backend stuff, all custom API's with Strapi :point_left:
 
 -- add to list: worlds most beautiful form: look en ui ux  
 -- animal zoo camera project from python
