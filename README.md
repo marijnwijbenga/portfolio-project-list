@@ -4,6 +4,12 @@ A list of all the portfolio work i want to do to just make fun stuff
 ## deploy all to heroku or amazon (or both)
 :point_right:!! API's with Django :point_left:
 
+0. Make a CSS framework
+  - work with sass
+  - work with grid > flex
+  - steal from tailwind, antdesign 
+  - eventually make a component library
+
 1. Vanilla JS& CSS: Js Practice
 2. Vue, Tailwind & Django: Simple finance with:
 3. Vue HTML 5 video player with Vue & Tailwind
