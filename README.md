@@ -5,9 +5,9 @@ A list of all the portfolio work i want to do to just make fun stuff
 :point_right:!! API's with Django :point_left:
 
 ### Tech Stack:
-:point_right:!! Vue 3
-:point_right:!! Django
-:point_right:!! CSS + Sass
+:point_right:!! Vue 3  
+:point_right:!! Django  
+:point_right:!! CSS + Sass  
 
 1. Vanilla JS& CSS: Js Practice
 2. Vue & Django: Simple finance with:
