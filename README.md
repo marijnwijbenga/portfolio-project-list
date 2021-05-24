@@ -9,6 +9,8 @@ A list of all the portfolio work i want to do to just make fun stuff
 :point_right:!! Django  
 :point_right:!! CSS + Sass  
 
+
+0. CSS Stylefile maken voor JS Practice en andere projecten 
 1. Vanilla JS& CSS: Js Practice
 2. Vue & Django: Simple finance with:
 3. Vue HTML 5 video player
