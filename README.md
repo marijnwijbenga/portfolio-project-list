@@ -34,3 +34,5 @@ A list of all the portfolio work i want to do to just make fun stuff
 23. Django: Cursic Backend
 24. Vue: Cursic Backend UI.
 25. Vue: Cursic frontend.
+26. Dog language learning stompboxes
+27. funny resume
