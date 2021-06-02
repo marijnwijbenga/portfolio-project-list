@@ -11,7 +11,7 @@ A list of all the portfolio work i want to do to just make fun stuff
 
 
 1. Vanilla JS& CSS: Js Practice
-2. Vue & STRAPI: Simple finance with:
+2. Vue & STRAPI: Simple finance  
 3. Vue HTML 5 video player
 4. Vue Image Gallery with STRAPI to store images
 5. Vue Todo App with STRAPI
