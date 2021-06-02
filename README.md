@@ -8,7 +8,7 @@ A list of all the portfolio work i want to do to just make fun stuff
 :point_right:!! Vue 3  + Vite
 :point_right:!! STRAPI  
 :point_right:!! TAILWIND + SASS
-
+:point_right:!! Maak vooral mooie dingen (animaties, transities, js funky stuff)
 
 1. Vanilla JS& CSS: Js Practice
 2. Vue & STRAPI: Simple finance  
