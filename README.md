@@ -2,15 +2,14 @@
 A list of all the portfolio work i want to do to just make fun stuff
 
 ## deploy all to heroku or amazon (or both)
-:point_right:!! API's with Django :point_left:
+:point_right:!! API's with STRAPI :point_left:
 
 ### Tech Stack:
-:point_right:!! Vue 3  
-:point_right:!! Django  
-:point_right:!! CSS + Sass  
+:point_right:!! Vue 3  + Vite
+:point_right:!! STRAPI  
+:point_right:!! TAILWIND + SASS
 
 
-0. CSS Stylefile maken voor JS Practice en andere projecten 
 1. Vanilla JS& CSS: Js Practice
 2. Vue & Django: Simple finance with:
 3. Vue HTML 5 video player
