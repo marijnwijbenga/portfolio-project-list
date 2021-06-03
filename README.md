@@ -39,3 +39,4 @@ A list of all the portfolio work i want to do to just make fun stuff
 21. Vue: Dark mode slider  
 22. Portfolio with Vue & Strapi  
 23. funny resume
+24. vue js game (pong, pacman, whatever)   
