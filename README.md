@@ -29,6 +29,7 @@ A list of all the portfolio work i want to do to just make fun stuff
 17. Vue: JS OS
 18. Vue: Astronomy app (https://docs.astronomyapi.com/v/v2/ https://github.com/AstronomyAPI/Samples)
 19. Vue : World's most beautiful form (UI & UX)
-25. Dog language learning stompboxes
-26. Portfolio with Vue & Strapi  
-27. funny resume
+25. Vue: Dog language learning stompboxes
+26. Vue: Shogi for learning (show legal moves as a expendable info box on the side, with meaning of characters)  
+27. Portfolio with Vue & Strapi  
+28. funny resume
