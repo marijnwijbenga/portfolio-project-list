@@ -5,7 +5,7 @@ A list of all the portfolio work i want to do to just make fun stuff
 :point_right:!! API's with STRAPI :point_left:
 
 ### Tech Stack:
-:point_right:!! Vue 3  + Vite
+:point_right:!! Vue 3  + Vite  
 :point_right:!! STRAPI  
 :point_right:!! TAILWIND + SASS  
 :point_right:!! Maak vooral mooie dingen (animaties, transities, js funky stuff)  
