@@ -37,5 +37,6 @@ A list of all the portfolio work i want to do to just make fun stuff
 19. Vue : World's most beautiful form (UI & UX)
 25. Vue: Dog language learning stompboxes
 26. Vue: Shogi for learning (show legal moves as a expendable info box on the side, with meaning of characters)  
-27. Portfolio with Vue & Strapi  
-28. funny resume
+27. Vue: Dark mode slider  
+28. Portfolio with Vue & Strapi  
+29. funny resume
