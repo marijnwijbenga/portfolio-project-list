@@ -12,9 +12,10 @@ A list of all the portfolio work i want to do to just make fun stuff
 
 
 ### Features  
-
 :point_right:!! Dark Mode toggle in all projects  
 
+
+### Projects  
 1. Vanilla JS& CSS: Js Practice
 2. Vue & STRAPI: Simple finance  
 3. Vue HTML 5 video player
