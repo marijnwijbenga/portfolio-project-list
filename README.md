@@ -32,7 +32,7 @@ A list of all the portfolio work i want to do to just make fun stuff
 14. Vue: Online Whiteboard
 15. Vue: Rock paper scissors lizzard spock
 16. Vue: JS OS
-17. Vue: Astronomy app (https://docs.astronomyapi.com/v/v2/ https://github.com/AstronomyAPI/Samples)
+17. Vue: Astronomy app with Nasa Space Dashboard (black with blueish colors) (https://docs.astronomyapi.com/v/v2/ https://github.com/AstronomyAPI/Samples)
 18. Vue : World's most beautiful form (UI & UX)
 19. Vue: Dog language learning stompboxes
 20. Vue: Shogi for learning (show legal moves as a expendable info box on the side, with meaning of characters)  
