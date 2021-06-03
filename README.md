@@ -7,8 +7,13 @@ A list of all the portfolio work i want to do to just make fun stuff
 ### Tech Stack:
 :point_right:!! Vue 3  + Vite
 :point_right:!! STRAPI  
-:point_right:!! TAILWIND + SASS
-:point_right:!! Maak vooral mooie dingen (animaties, transities, js funky stuff)
+:point_right:!! TAILWIND + SASS  
+:point_right:!! Maak vooral mooie dingen (animaties, transities, js funky stuff)  
+
+
+### Features  
+
+:point_right:!! Dark Mode toggle in all projects  
 
 1. Vanilla JS& CSS: Js Practice
 2. Vue & STRAPI: Simple finance  
