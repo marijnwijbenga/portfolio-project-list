@@ -16,7 +16,7 @@ A list of all the portfolio work i want to do to just make fun stuff
 :point_right:!! Make it pretty! (animations, transitions, js funky stuff)  
 
 ### Projects  
-1. Vue: Simple finance (sessie storage)  
+1. Vue: Simple finance (session storage)  
 2. Vue HTML 5 video player
 3. Vue Image Gallery with STRAPI to store images
 4. Vue Todo App with STRAPI
