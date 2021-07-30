@@ -25,7 +25,7 @@ A list of all the portfolio work i want to do to just make fun stuff
 7. Vue: Movie seat booking
 8. Vue: Music player (spotify clone)
 9. Vue: Memory cards game
-10. Vue: 
+10. Vue: Todo App (storage in strapi)
 11. Vue: Lyrics search engine
 12. Vue: Calculator
 13. Vue: Text Editor
