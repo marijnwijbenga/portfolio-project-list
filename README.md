@@ -16,7 +16,7 @@ A list of all the portfolio work i want to do to just make fun stuff
 :point_right:!! Make it pretty! (animations, transitions, js funky stuff)  
 
 ### Projects  
-1. Vue: Simple finance (session storage)  
+1. Vue: Simple personal finance app(session storage)  
 2. Vue HTML 5 video player
 3. Vue Image Gallery with STRAPI to store images
 4. Vue Todo App with STRAPI
@@ -25,19 +25,20 @@ A list of all the portfolio work i want to do to just make fun stuff
 7. Vue: Movie seat booking
 8. Vue: Music player (spotify clone)
 9. Vue: Memory cards game
-10. Vue: Lyrics search engine
-11. Vue: Calculator
-12. Vue: Text Editor
-13. Vue & STRAPI: Guestbook/Journal
-14. Vue: Online Whiteboard
-15. Vue: Rock paper scissors lizzard spock
-16. Vue: JS OS
-17. Vue: Astronomy app with Nasa Space Dashboard (black with blueish colors) (https://docs.astronomyapi.com/v/v2/ https://github.com/AstronomyAPI/Samples)
-18. Vue : World's most beautiful form (UI & UX)
-19. Vue: Dog language learning stompboxes
-20. Vue: Shogi for learning (show legal moves as a expendable info box on the side, with meaning of characters)  
-21. Vue: Dark mode slider  
-22. Portfolio with Vue & Strapi  
-23. funny resume
-24. vue js game (pong, pacman, whatever)   
-25. Simple finance (storage in strapi)
+10. Vue: 
+11. Vue: Lyrics search engine
+12. Vue: Calculator
+13. Vue: Text Editor
+14. Vue & STRAPI: Guestbook/Journal
+15. Vue: Online Whiteboard
+16. Vue: Rock paper scissors lizzard spock
+17. Vue: JS OS
+18. Vue: Astronomy app with Nasa Space Dashboard (black with blueish colors) (https://docs.astronomyapi.com/v/v2/ https://github.com/AstronomyAPI/Samples)
+19. Vue : World's most beautiful form (UI & UX)
+20. Vue: Dog language learning stompboxes
+21. Vue: Shogi for learning (show legal moves as a expendable info box on the side, with meaning of characters)  
+22. Vue: Dark mode slider  
+23. Portfolio with Vue & Strapi  
+24. Funny resume
+25. vue js game (pong, pacman, whatever)   
+26. Simple personal finance app (storage in strapi)
