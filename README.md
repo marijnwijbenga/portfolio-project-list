@@ -13,7 +13,7 @@ A list of all the portfolio work i want to do to just make fun stuff
 
 ### Features  
 :point_right:!! Dark Mode toggle in all projects  
-:point_right:!! Maak vooral mooie dingen (animaties, transities, js funky stuff)  
+:point_right:!! Make it pretty! (animations, transitions, js funky stuff)  
 
 ### Projects  
 1. Vue: Simple finance (sessie storage)  
