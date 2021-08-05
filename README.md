@@ -17,7 +17,7 @@ A list of all the portfolio work i want to do to just make fun stuff
 
 ### Projects  
 1. Vanilla: r/webdev nature theme website  
-2. Vue: Simple personal finance app(session storage)  
+2. Vue & Strapi: Simple personal finance app
 3. Vue HTML 5 video player
 4. Vue Image Gallery with STRAPI to store images
 5. Vue Todo App with STRAPI
@@ -42,4 +42,3 @@ A list of all the portfolio work i want to do to just make fun stuff
 24. Portfolio with Vue & Strapi  
 25. Funny resume
 26. vue js game (pong, pacman, whatever)   
-27. Simple personal finance app (storage in strapi)
