@@ -39,6 +39,7 @@ A list of all the portfolio work i want to do to just make fun stuff
 21. Vue: Dog language learning stompboxes
 22. Vue: Shogi for learning (show legal moves as a expendable info box on the side, with meaning of characters)  
 23. Vue: Dark mode slider  
-24. Portfolio with Vue & Strapi  
-25. Funny resume
-26. vue js game (pong, pacman, whatever)   
+24. https://www.letsstay.net clone (display data from flight and hotel finding API's)
+25. Portfolio with Vue & Strapi  
+26. Funny resume
+27. vue js game (pong, pacman, whatever)   
