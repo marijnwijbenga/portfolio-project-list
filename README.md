@@ -2,12 +2,12 @@
 A list of all the portfolio work i want to do to just make fun stuff
 
 ## deploy all to heroku or amazon (or both)
-:point_right:!! API's with STRAPI :point_left:
+:point_right:!! API's with JSON Server
 
 ### Tech Stack:
 :point_right:!! Frontend: Vue 3 + TS + Vite  
 :point_right:!! Frontend: TAILWIND + SASS  
-:point_right:!! Backend: STRAPI  
+:point_right:!! Backend: Json Server  
 
 
 
@@ -16,11 +16,11 @@ A list of all the portfolio work i want to do to just make fun stuff
 :point_right:!! Make it pretty! (animations, transitions, js funky stuff)  
 
 ### Projects  
-1. Vue 3: Astronomy app with Nasa Space Dashboard (black with blueish colors) (https://docs.astronomyapi.com/v/v2/ https://github.com/AstronomyAPI/Samples)  
-2. Vue 3: Todo App with STRAPI
-3. Vue 3: Memory cards game
+1. Vue 3: Memory cards game
+2. Vue 3: Todo App with JSON Server
+3. Vue 3: Astronomy app with Nasa Space Dashboard (black with blueish colors) (https://docs.astronomyapi.com/v/v2/ https://github.com/AstronomyAPI/Samples)  
 4. Vue 3: Online Whiteboard
-5. Vue 3 TS: Simple personal finance app
+5. Vue 3 TS: Simple personal finance app with JSON Server
 6. Vue 3: Rock paper scissors lizzard spock
 7. Vue 3 TS: Funny resume
 8.  Vue 3: World's most beautiful form (UI & UX)
