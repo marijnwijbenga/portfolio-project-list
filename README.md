@@ -17,19 +17,19 @@ A list of all the portfolio work i want to do to just make fun stuff
 
 ### Projects  
 1. Astronomy app with Nasa Space Dashboard (black with blueish colors) (https://docs.astronomyapi.com/v/v2/ https://github.com/AstronomyAPI/Samples)  
-2. 3. Todo App with STRAPI
-4. Memory cards game
-5. Online Whiteboard
-6. Simple personal finance app
-7. Rock paper scissors lizzard spock
-8. Funny resume
-9.  World's most beautiful form (UI & UX)
-10.  Admin Panel Dashboard 
-11.  LanParty Tournament Tracker
-12.  Shogi for learning (show legal moves as a expendable info box on the side, with meaning of characters)  
-13.  Js game (pong, pacman, whatever)   
-14.  Calculator
-15.  JS OS
+2. Todo App with STRAPI
+3. Memory cards game
+4. Online Whiteboard
+5. Simple personal finance app
+6. Rock paper scissors lizzard spock
+7. Funny resume
+8.  World's most beautiful form (UI & UX)
+9.  Admin Panel Dashboard 
+10.  LanParty Tournament Tracker
+11.  Shogi for learning (show legal moves as a expendable info box on the side, with meaning of characters)  
+12.  Js game : whack the mole
+13.  Calculator
+14.  JS OS
 
 
 :point_right:!! Final Project before applying for jobs: Vue Portfolio
