@@ -16,15 +16,15 @@ A list of all the portfolio work i want to do to just make fun stuff
 :point_right:!! Make it pretty! (animations, transitions, js funky stuff)  
 
 ### Projects  
-1. Astronomy app with Nasa Space Dashboard (black with blueish colors) (https://docs.astronomyapi.com/v/v2/ https://github.com/AstronomyAPI/Samples)  
-2. Todo App with STRAPI
-3. Memory cards game
-4. Online Whiteboard
-5. Simple personal finance app
-6. Rock paper scissors lizzard spock
-7. Funny resume
-8.  World's most beautiful form (UI & UX)
-9.  Admin Panel Dashboard 
+1. Vue 3: Astronomy app with Nasa Space Dashboard (black with blueish colors) (https://docs.astronomyapi.com/v/v2/ https://github.com/AstronomyAPI/Samples)  
+2. Vue 3: Todo App with STRAPI
+3. Vue 3: Memory cards game
+4. Vue 3: Online Whiteboard
+5. Vue 3 TS: Simple personal finance app
+6. Vue 3: Rock paper scissors lizzard spock
+7. Vue 3 TS: Funny resume
+8.  Vue 3: World's most beautiful form (UI & UX)
+9.  Vue 3 TS: Admin Panel Dashboard 
 10.  LanParty Tournament Tracker
 11.  Shogi for learning (show legal moves as a expendable info box on the side, with meaning of characters)  
 12.  Js game : whack the mole
