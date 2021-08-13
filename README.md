@@ -29,8 +29,6 @@ A list of all the portfolio work i want to do to just make fun stuff
 11.  Shogi for learning (show legal moves as a expendable info box on the side, with meaning of characters)  
 12.  Js game : whack the mole
 13.  Calculator
-14.  JS OS
-
-
-:point_right:!! Final Project before applying for jobs: Vue Portfolio
+14.  JS OS   
+15.  15. Final Project before applying for jobs: Vue Portfolio  
 
