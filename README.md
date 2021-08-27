@@ -30,5 +30,6 @@ A list of all the portfolio work i want to do to just make fun stuff
 12.  Js game : whack the mole
 13.  Calculator
 14.  JS OS   
-15.  Final Project before applying for jobs: Vue Portfolio  
+15.  Game of life render https://www.youtube.com/watch?v=HeQX2HjkcNo
+16.  Final Project before applying for jobs: Vue Portfolio  
 
