@@ -16,7 +16,7 @@ A list of all the portfolio work i want to do to just make fun stuff
 :point_right:!! Make it pretty! (animations, transitions, js funky stuff)  
 
 ### Projects  
-1. Vue 3: Memory cards game
+1. ~~Angular: Memory cards game~~
 2. Vue 3: Todo App with JSON Server
 3. Vue 3: Astronomy app with Nasa Space Dashboard (black with blueish colors) (https://docs.astronomyapi.com/v/v2/ https://github.com/AstronomyAPI/Samples)  
 4. Vue 3: Online Whiteboard
