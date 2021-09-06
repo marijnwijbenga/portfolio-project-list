@@ -31,5 +31,6 @@ A list of all the portfolio work i want to do to just make fun stuff
 13.  Calculator
 14.  JS OS   
 15.  Game of life render https://www.youtube.com/watch?v=HeQX2HjkcNo
-16.  Final Project before applying for jobs: Vue Portfolio  
+16.  Image gallery of illustrations and webdesigns for portfolio (illustration.marijnwijb.nl)  
+17.  Final Project before applying for jobs: Vue Portfolio  
 
