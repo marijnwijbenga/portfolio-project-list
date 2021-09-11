@@ -18,7 +18,7 @@ A list of all the portfolio work i want to do to just make fun stuff
 ### Projects  
 1. ~~Angular: Memory cards game~~
 2. Angular: Todo App
-3. Angular: cookie clicker  
+3. Angular: cookie clicker(treeplanter)  
 4. Vue 3: Astronomy app with Nasa Space Dashboard (black with blueish colors) (https://docs.astronomyapi.com/v/v2/ https://github.com/AstronomyAPI/Samples)  
 5. Vue 3: Online Whiteboard
 6. Vue 3 TS: Simple personal finance app with JSON Server
