@@ -22,7 +22,7 @@ A list of all the portfolio work i want to do to just make fun stuff
 11. Game of life render https://www.youtube.com/watch?v=HeQX2HjkcNo
 12. Image gallery of illustrations and webdesigns for portfolio (illustration.marijnwijb.nl)
 13. Python Vex IQ thing (complex manouvring and autonomous driving)
-14. Design system template (for creating new design systems)
+14. Design system
 
 Final Project before applying for jobs: Portfolio
 
